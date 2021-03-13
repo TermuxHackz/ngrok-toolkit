@@ -31,7 +31,7 @@ This tool has been tested on the various systems;
 # Problems with it
 If you encounter any problem with the tool, you can contact me privately on my <a href="https://wa.me/+2349033677589">Whatsapp handle.</a>
 <p align="center">
-And more over of you need more tools amd hacking courses, message my <a href="https://t.me/Termux1_bot">Telegram bot</a>
+And moreover if you need more tools amd hacking courses, message my <a href="https://t.me/Termux1_bot">Telegram bot</a>
 
 
 
