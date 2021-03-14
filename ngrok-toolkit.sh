@@ -25,7 +25,7 @@ cd $HOME
 sleep 1
 printf "\e[1;95mAfter you have pasted your authtoken, then Ngrok has been Successfully Installed in Termux!!\e[0m\n"
 sleep 0.5
-echo -e "\e[1;34m Go to Home directory \e[0m
+echo -e "\e[1;34m Go to Home directory \e[0m"
 sleep 0.5
 echo -e "\e[1;33m Now run\e[0m\e[1;34m ./ngrok http 3333 \e[0m\e[1;33m to Start Ngrok Server\e[0m\n"
 sleep 0.5
